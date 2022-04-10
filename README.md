@@ -133,20 +133,6 @@
 
 ![依赖关系](https://images.gitee.com/uploads/images/2020/0407/194510_89803a9d_2182501.png "QQ截图20200407194419.png")
 
-## 系统演示视频
-
-PC前端（用户Web端）：[https://gitee.com/cexchange/CoinExchange/attach_files](https://gitee.com/cexchange/CoinExchange/attach_files)
-
-手机APP端：[https://gitee.com/cexchange/CoinExchange/attach_files](https://gitee.com/cexchange/CoinExchange/attach_files)
-
-管理后台：[https://gitee.com/cexchange/CoinExchange/attach_files](https://gitee.com/cexchange/CoinExchange/attach_files)
-
-## 开发参考
-
-开发参考文档：[https://gitee.com/cexchange/CoinExchange/blob/master/DEVELOP.md](https://gitee.com/cexchange/CoinExchange/blob/master/DEVELOP.md)
-
-管理后台截图：[https://gitee.com/cexchange/CoinExchange/tree/master/09_DOC/管理后台截图](https://gitee.com/cexchange/CoinExchange/tree/master/09_DOC/%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE)
-
 ## 关于SpringCloud
 
 Spring Cloud是一系列框架的有序集合。它利用Spring Boot的开发便利性巧妙地简化了分布式系统基础设施的开发，如服务发现注册、配置中心、消息总线、负载均衡、断路器、数据监控等，都可以用Spring Boot的开发风格做到一键启动和部署。Spring Cloud并没有重复制造轮子，它只是将各家公司开发的比较成熟、经得起实际考验的服务框架组合起来，通过Spring Boot风格进行再封装屏蔽掉了复杂的配置和实现原理，最终给开发者留出了一套简单易懂、易部署和易维护的分布式系统开发工具包。
