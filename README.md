@@ -5,7 +5,7 @@
 ## 后端 & 代理商后台 等演示  
 添加本人联系方式：
 ## 邮箱：mygit123pub@163.com
-## telegram：
+## telegram：https://t.me/MyBizzan
 
 ## 基于ETH发行ERC20代币可参考：
 
